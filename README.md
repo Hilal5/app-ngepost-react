@@ -27,3 +27,20 @@
 | MySQL/SQLite  | Basis data postingan & komentar |
 | Laravel Breeze (opsional) | Starter auth & Vite config |
 
+---
+
+## 📸 Screenshots
+## 🏠 Beranda (Daftar Postingan)
+
+## ➕ Buat Postingan
+
+## ❤️ Like & Komentar
+
+---
+
+## 🧪 Pengujian
+Fitur-fitur telah diuji dengan skenario:
+- Menambah postingan teks dan gambar
+- Memberi komentar berulang
+- Menekan like berkali-kali
+- Menghapus dan mengedit postingan secara dinamis
