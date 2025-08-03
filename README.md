@@ -1,6 +1,6 @@
 # 📝 NgePost – Aplikasi Postingan Laravel + React
 
-**NgePost** adalah aplikasi web sederhana berbasis **Laravel 12** dan **React + Vite**, dirancang untuk belajar membangun aplikasi fullstack dengan pendekatan modern. Pengguna dapat membuat postingan berupa catatan atau gambar, memberikan komentar, dan menyukai postingan — semuanya tanpa perlu login.
+**NgePost** adalah aplikasi web sederhana berbasis **Laravel 12** dan **React + Vite**, dirancang untuk belajar membangun aplikasi fullstack dengan pendekatan modern. Pengguna dapat membuat postingan berupa catatan atau gambar, memberikan komentar, dan menyukai postingan tanpa perlu login.
  
 ---
 
